@@ -161,3 +161,4 @@ Before you begin, ensure you have the following installed:
     * Click the "Generate Itinerary" button to see the AI create your custom travel plan, beautifully presented with Shadcn UI components!
 
 ## Project Structure
+![image](https://github.com/user-attachments/assets/71b87381-c8b5-4374-b546-9c10a01e1407)
