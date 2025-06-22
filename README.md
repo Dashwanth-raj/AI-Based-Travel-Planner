@@ -36,7 +36,6 @@
   - [Project Structure](#project-structure)
   - [Screenshots](#screenshots)
   - [Acknowledgments](#acknowledgments)
-  - [Contact](#contact)
 
 ---
 
@@ -162,10 +161,14 @@ Before you begin, ensure you have the following installed:
 ![image](https://github.com/user-attachments/assets/71b87381-c8b5-4374-b546-9c10a01e1407)
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/bd748d5a-788c-4bb2-8c27-7a5de33f9e64)
 
 ![image](https://github.com/user-attachments/assets/62945b65-d71a-4600-bcc5-e035e8b18fe8)
+
 ![image](https://github.com/user-attachments/assets/6fc86fdf-f894-4755-92db-d8568acc36cd)
+
 ![image](https://github.com/user-attachments/assets/f49ea472-9db4-4c50-bdf0-05ab7b064bae)
+
 ![image](https://github.com/user-attachments/assets/cb8ad0c3-3b28-4f8a-a3f2-5302a6315f46)
 
 
