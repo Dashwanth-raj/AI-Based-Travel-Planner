@@ -91,9 +91,10 @@ This project leverages a modern and efficient JavaScript-centric tech stack, emp
     * **OAuth APIs (e.g., Google OAuth, GitHub OAuth):** For enabling secure and convenient social login functionality.
 
 * **APIs (External):**
-    * **Google Gemini API:** For all AI-driven recommendations and content generation.
-    * **[Potentially Google Places API/Google Maps API - if directly called from frontend or Firebase Functions]:** For location-based data and mapping.
-    * **[Any other relevant APIs like weather, events, etc., if integrated]**
+    * **Google Gemini API**
+    * **Maps Embed API**
+    * **Maps JavaScript API**
+    * **Places API**
 
 ## Getting Started
 
