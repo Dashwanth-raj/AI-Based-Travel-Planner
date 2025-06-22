@@ -35,8 +35,6 @@
   - [Usage](#usage)
   - [Project Structure](#project-structure)
   - [Screenshots](#screenshots)
-  - [Contributing](#contributing)
-  - [License](#license)
   - [Acknowledgments](#acknowledgments)
   - [Contact](#contact)
 
@@ -165,33 +163,11 @@ Before you begin, ensure you have the following installed:
 
 ## Screenshots
 
-*(Ideally, include screenshots or GIFs here to showcase your application. Ensure they highlight the attractive UI from Tailwind CSS and Shadcn UI!)*
+![image](https://github.com/user-attachments/assets/62945b65-d71a-4600-bcc5-e035e8b18fe8)
+![image](https://github.com/user-attachments/assets/6fc86fdf-f894-4755-92db-d8568acc36cd)
+![image](https://github.com/user-attachments/assets/f49ea472-9db4-4c50-bdf0-05ab7b064bae)
+![image](https://github.com/user-attachments/assets/cb8ad0c3-3b28-4f8a-a3f2-5302a6315f46)
 
-![Login Page Screenshot](https://via.placeholder.com/800x450/F8F8F8/000000?text=Login+Page+Screenshot)
-*Screenshot: User authentication interface with OAuth options, showcasing Shadcn UI forms.*
-
-![Itinerary Input Screenshot](https://via.placeholder.com/800x450/F8F8F8/000000?text=Travel+Preferences+Input)
-*Screenshot: Main form where users input their travel details, featuring Shadcn UI inputs and buttons.*
-
-![Generated Itinerary Screenshot](https://via.placeholder.com/800x450/F8F8F8/000000?text=AI+Generated+Itinerary)
-*Screenshot: An example of a beautifully generated travel itinerary by the AI, presented using Shadcn UI cards and layouts.*
-
-## Contributing
-
-We welcome contributions to improve the AI-Based Travel Planner! If you have suggestions, bug reports, or want to contribute code, please follow these steps:
-
-1.  **Fork** the repository.
-2.  **Create a new branch** for your feature or bug fix: `git checkout -b feature/your-feature-name` or `fix/bug-description`.
-3.  **Make your changes** and ensure they adhere to the project's coding style.
-4.  **Commit your changes** with clear and concise messages: `git commit -m "feat: Add new feature X"` or `fix: Resolve bug Y`.
-5.  **Push your branch** to your forked repository: `git push origin feature/your-feature-name`.
-6.  **Open a Pull Request** to the `main` branch of this repository, describing your changes in detail.
-
-Please consider reading our [CONTRIBUTING.md](CONTRIBUTING.md) (if you plan to create one) for more detailed guidelines.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -199,12 +175,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * Styling and component excellence provided by **Tailwind CSS** and **Shadcn UI**.
 * Leverages the intelligence of **Google Generative AI (Gemini API)** for smart itinerary planning.
 * Relies on **Google Firebase** for robust authentication and data storage.
-* Inspired by the open-source community.
-
-## Contact
-
-For any questions or inquiries, feel free to reach out to the project maintainer:
-
-Dashwanth Raj - [dashwanthraj@example.com](mailto:dashwanthraj@example.com)
-
-Project Link: [https://github.com/Dashwanth-raj/AI-Based-Travel-Planner](https://github.com/Dashwanth-raj/AI-Based-Travel-Planner)
+* Inspired by the TubeGuruji youctube video and open-source community.
