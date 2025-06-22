@@ -17,7 +17,6 @@
   </a>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Dashwanth-raj/AI-Based-Travel-Planner">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Dashwanth-raj/AI-Based-Travel-Planner">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg">
 </p>
 
 ## Table of Contents
