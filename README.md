@@ -69,7 +69,6 @@ This AI-Based Travel Planner directly addresses these pain points by offering an
 * **User Authentication & Data Storage:** Securely save and manage multiple travel plans and user profiles using Google Firebase Authentication and Firestore.
 * **OAuth Integration:** Seamless login experience using popular OAuth providers (e.g., Google, GitHub).
 * **Modern & Responsive UI:** A fast, intuitive, and visually appealing user interface built with React, Vite, styled with Tailwind CSS, and enhanced with Shadcn UI components.
-* **[Add any other specific features here, e.g., real-time weather updates, flight/hotel search integration (if applicable)]**
 
 ## Technologies Used
 
@@ -85,10 +84,8 @@ This project leverages a modern and efficient JavaScript-centric tech stack, emp
 * **Backend / Cloud Services:**
     * **Google Firebase:** A comprehensive platform providing:
         * **Firestore:** A flexible, scalable NoSQL cloud database for storing user-specific travel plans, preferences, and more.
-        * **Authentication:** For secure user registration, login, and session management (email/password, social logins).
-        * **Firebase Hosting:** (Potentially) For seamless deployment of the frontend application.
     * **Google Generative AI (Gemini API):** The core AI engine that processes user inputs and generates intelligent travel recommendations and itineraries.
-    * **OAuth APIs (e.g., Google OAuth, GitHub OAuth):** For enabling secure and convenient social login functionality.
+    * **Google OAuth APIs:** For enabling secure and convenient social login functionality.
 
 * **APIs (External):**
     * **Google Gemini API**
@@ -111,7 +108,7 @@ Before you begin, ensure you have the following installed:
 * **API Keys & Firebase Project:**
     * **Google Cloud Project:** Create one and enable the **Gemini API**. Generate an API key.
     * **Firebase Project:** Set up a Firebase project, enable **Firestore Database** and **Authentication** (including desired OAuth providers like Google, GitHub). Obtain your Firebase configuration object.
-    * **[If using Google Maps/Places directly]:** Enable Google Maps JavaScript API and Google Places API, then generate an API key.
+    * **Google Maps/Places:** Enable Google Maps JavaScript API,Maps Embed and Google Places API, then generate an API key.
 
 ### Installation
 
@@ -134,6 +131,8 @@ Before you begin, ensure you have the following installed:
     ```env
     # Google Gemini API Key
     VITE_GEMINI_API_KEY=YOUR_GEMINI_API_KEY
+    VITE_GOOGLE_PLACES_API_KEY=YOUR_GOOGLE_PLACES_API_KEY
+    VITE_GOOGLE_OAUTH_API_KEY=YOUR_GOOGLE_OAUTH_API_KEY
 
     # Firebase Configuration (replace with your actual Firebase project config)
     VITE_FIREBASE_API_KEY=YOUR_FIREBASE_API_KEY
@@ -144,9 +143,7 @@ Before you begin, ensure you have the following installed:
     VITE_FIREBASE_APP_ID=YOUR_FIREBASE_APP_ID
     VITE_FIREBASE_MEASUREMENT_ID=YOUR_FIREBASE_MEASUREMENT_ID
 
-    # [If using Google Maps/Places API directly from frontend]
-    VITE_Maps_API_KEY=YOUR_Maps_API_KEY
-    ```
+    
     *Make sure these match the variables you are trying to access in your React code.*
 
 ## Usage
