@@ -177,4 +177,4 @@ Before you begin, ensure you have the following installed:
 * Styling and component excellence provided by **Tailwind CSS** and **Shadcn UI**.
 * Leverages the intelligence of **Google Generative AI (Gemini API)** for smart itinerary planning.
 * Relies on **Google Firebase** for robust authentication and data storage.
-* Inspired by the TubeGuruji youctube video and open-source community.
+* Inspired by the TubeGuruji youTube video and open-source community.
