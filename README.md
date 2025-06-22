@@ -162,3 +162,49 @@ Before you begin, ensure you have the following installed:
 
 ## Project Structure
 ![image](https://github.com/user-attachments/assets/71b87381-c8b5-4374-b546-9c10a01e1407)
+
+## Screenshots
+
+*(Ideally, include screenshots or GIFs here to showcase your application. Ensure they highlight the attractive UI from Tailwind CSS and Shadcn UI!)*
+
+![Login Page Screenshot](https://via.placeholder.com/800x450/F8F8F8/000000?text=Login+Page+Screenshot)
+*Screenshot: User authentication interface with OAuth options, showcasing Shadcn UI forms.*
+
+![Itinerary Input Screenshot](https://via.placeholder.com/800x450/F8F8F8/000000?text=Travel+Preferences+Input)
+*Screenshot: Main form where users input their travel details, featuring Shadcn UI inputs and buttons.*
+
+![Generated Itinerary Screenshot](https://via.placeholder.com/800x450/F8F8F8/000000?text=AI+Generated+Itinerary)
+*Screenshot: An example of a beautifully generated travel itinerary by the AI, presented using Shadcn UI cards and layouts.*
+
+## Contributing
+
+We welcome contributions to improve the AI-Based Travel Planner! If you have suggestions, bug reports, or want to contribute code, please follow these steps:
+
+1.  **Fork** the repository.
+2.  **Create a new branch** for your feature or bug fix: `git checkout -b feature/your-feature-name` or `fix/bug-description`.
+3.  **Make your changes** and ensure they adhere to the project's coding style.
+4.  **Commit your changes** with clear and concise messages: `git commit -m "feat: Add new feature X"` or `fix: Resolve bug Y`.
+5.  **Push your branch** to your forked repository: `git push origin feature/your-feature-name`.
+6.  **Open a Pull Request** to the `main` branch of this repository, describing your changes in detail.
+
+Please consider reading our [CONTRIBUTING.md](CONTRIBUTING.md) (if you plan to create one) for more detailed guidelines.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+* Powered by **Vite** and **React** for a fast and dynamic user experience.
+* Styling and component excellence provided by **Tailwind CSS** and **Shadcn UI**.
+* Leverages the intelligence of **Google Generative AI (Gemini API)** for smart itinerary planning.
+* Relies on **Google Firebase** for robust authentication and data storage.
+* Inspired by the open-source community.
+
+## Contact
+
+For any questions or inquiries, feel free to reach out to the project maintainer:
+
+Dashwanth Raj - [dashwanthraj@example.com](mailto:dashwanthraj@example.com)
+
+Project Link: [https://github.com/Dashwanth-raj/AI-Based-Travel-Planner](https://github.com/Dashwanth-raj/AI-Based-Travel-Planner)
